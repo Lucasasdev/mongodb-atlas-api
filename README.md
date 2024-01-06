@@ -1,4 +1,4 @@
-# User registration API
+# Node mongodb API
 
 ## Proposta do projeto
 
