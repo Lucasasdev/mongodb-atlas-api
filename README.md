@@ -6,6 +6,16 @@
 
 Neste projeto é possível salvar dados básicos dos usuários como nome, sobrenome, email e uma senha no bando de dados e realizar as interações de CRUD com esses dados.
 
+**Modelo json exemplo**
+``
+{
+  "firstname": "example",
+  "lastname": "example",
+  "email": "email@example.com
+  "password": "********"
+  }
+``
+
 ## Objetivo do desenvolvimento do projeto
 
 Solidificar os conhecimentos com API's, melhorar a compreensão do protocolo HTTP, estruturar e modular um projeto API com fácil estrutura de código para ampliar a legibilidade do código e matunenabilidade posterior.
@@ -38,4 +48,4 @@ Node.js v18.16.0
 
 4. Utilize alguma interface de testes para API's, como **Postman** ou **Insominia**.
 
-Deploy na plataforma Vercel
+**Deploy na plataforma Vercel**
