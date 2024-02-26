@@ -35,8 +35,8 @@ Arquitetura MVC
 
 ## Requisitos
 
-Mongodb Atlas ou Mongodb: v7.0.3
-Node.js: v18.16.0
+- Mongodb Atlas ou Mongodb: v7.0.3
+- Node.js: v18.16.0
 
 ## Como clonar a API
 
