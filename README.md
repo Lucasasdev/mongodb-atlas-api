@@ -6,12 +6,12 @@
 
 Neste projeto é possível salvar dados básicos dos usuários como nome, sobrenome, email e uma senha no bando de dados e realizar as interações de CRUD com esses dados.
 
-**Modelo json exemplo**
+**Modelo json como exemplo**
 ``
 {
   "firstname": "example",
   "lastname": "example",
-  "email": "email@example.com
+  "email": "email@example.com,
   "password": "********"
   }
 ``
