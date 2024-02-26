@@ -1,7 +1,5 @@
 # Node mongodb API
 
-## Proposta do projeto
-
 ## Objetivo da API
 
 Neste projeto é possível salvar dados básicos dos usuários como nome, sobrenome, email e uma senha no bando de dados e realizar as interações de CRUD com esses dados.
