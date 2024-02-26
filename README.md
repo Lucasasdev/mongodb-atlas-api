@@ -35,10 +35,10 @@ Arquitetura MVC
 
 ## Requisitos
 
-Mongodb atlas ou moongodb version v7.0.3
-Node.js v18.16.0
+Mongodb Atlas ou Mongodb: v7.0.3
+Node.js: v18.16.0
 
-## Como utilizar a API
+## Como clonar a API
 
 1. Clone o projeto para uma pasta da sua escolha: `git clone https://github.com/Lucasasdev/user-api.git`
 
