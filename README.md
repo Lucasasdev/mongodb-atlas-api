@@ -49,3 +49,4 @@ Arquitetura MVC
 4. Utilize alguma interface de testes para API's, como **Postman** ou **Insominia**.
 
 **Deploy na plataforma Vercel**
+[link para a API](https://mongodb-api-git-master-lucas-alves-projects.vercel.app/users)
