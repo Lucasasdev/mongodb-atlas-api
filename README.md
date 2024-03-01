@@ -27,4 +27,4 @@ Nodejs, JavaScript, Express.js, Mongodb Atlas, ODM Mongoose, Postman
 1. Clone o projeto para uma pasta da sua escolha: `git clone https://github.com/Lucasasdev/user-api.git`
 2. Abra o projeto e instale todas as dependências necessárias `npm install or yarn`
 3. Configure o arquivo **.env** para se conectar com o mongodb usando como base o arquivo **.env.example**
-4. Utilize alguma interface de testes para API's, como **Postman** ou **Insominia*.
+4. Utilize alguma interface de testes para API's, como **Postman** ou **Insominia**.
