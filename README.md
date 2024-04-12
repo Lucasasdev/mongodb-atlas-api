@@ -20,8 +20,9 @@ Solidificar os conhecimentos com API's, melhorar a compreensão do protocolo HTT
 Nodejs, JavaScript, Express.js, Mongodb Atlas, ODM Mongoose, Postman
 
 ## Requisitos
-- Mongodb Atlas ou Mongodb: v7.0.3
-- Node.js: v18.16.0
+|Mongodb|NodeJS|
+|-------|-------|
+|V7.0.3+|V18.16.0+|
 
 ## Como clonar a API
 1. Clone o projeto para uma pasta da sua escolha: `git clone https://github.com/Lucasasdev/user-api.git`
