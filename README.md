@@ -1,23 +1,11 @@
-# Node mongodb API
-
-## Objetivo da API
+# MongoDB Atlas API
 Neste projeto é possível salvar dados básicos dos usuários como nome, sobrenome, email e uma senha no bando de dados e realizar as interações de CRUD com esses dados.
-
-**Modelo json:**
-``
-{
-  "firstname": "example",
-  "lastname": "example",
-  "email": "example@example.com,
-  "password": "********"
-  }
-``
 
 ## Objetivo do desenvolvimento do projeto
 Solidificar os conhecimentos com API's, melhorar a compreensão do protocolo HTTP, estruturar e modular um projeto API com fácil estrutura de código para ampliar a legibilidade do código e matunenabilidade posterior.
 
 ## Tecnologias
-Nodejs, JavaScript, Express.js, Mongodb Atlas, ODM Mongoose, Postman
+Nodejs, JavaScript, Express.js, Mongodb Atlas, (ODM) Mongoose, Postman
 
 ## Requisitos
 |Mongodb|NodeJS|
@@ -29,3 +17,12 @@ Nodejs, JavaScript, Express.js, Mongodb Atlas, ODM Mongoose, Postman
 2. Abra o projeto e instale todas as dependências necessárias `npm install or yarn`
 3. Configure o arquivo **.env** para se conectar com o mongodb usando como base o arquivo **.env.example**
 4. Utilize alguma interface de testes para API's, como **Postman** ou **Insominia**.
+5. Exemplo JSON:
+``
+{
+  "firstname": "example",
+  "lastname": "example",
+  "email": "example@example.com,
+  "password": "********"
+  }
+``
