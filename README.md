@@ -2,7 +2,7 @@
 Neste projeto é possível salvar dados básicos dos usuários como nome, sobrenome, email e uma senha no bando de dados e realizar as interações de CRUD com esses dados.
 
 ### Objetivo do desenvolvimento do projeto
-Solidificar os conhecimentos com API's, melhorar a compreensão do protocolo HTTP, estruturar e modular um projeto API com fácil estrutura de código para ampliar a legibilidade do código e matunenabilidade posterior.
+Solidificar conhecimentos em API's, melhorar a compreensão do protocolo HTTP, estruturar e modular um projeto API com fácil estrutura de código para ampliar a legibilidade do código e matunenabilidade posterior.
 
 ### Tecnologias
 **Node.JS, JavaScript, Express.js, Mongodb Atlas, Mongoose(ODM), Postman**
