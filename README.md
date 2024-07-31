@@ -45,7 +45,7 @@ npm install
 4. Execute a aplicação:
 
 ```bash
-npm start
+npm run dev
 ```
 
 ## Tecnologias:
