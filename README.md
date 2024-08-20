@@ -42,6 +42,14 @@ npm install
 
 ```
 
+## Endpoints
+- POST: ```http://localhost/users```
+- GET:  ```http://localhost/users```
+- GET: ```http://localhost/users/{id}```
+- PATCH: ```http://localhost/users/{id}```
+- PUT: ```http://localhost/users/{id}```
+- DELETE ```http://localhost/user/{id}```
+
 4. Execute a aplicação:
 
 ```bash
