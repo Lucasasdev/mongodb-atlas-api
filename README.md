@@ -1,47 +1,43 @@
-# MongoDB API
-API REST integrada com MongoDB Atlas.
+# Mongodb api
+API REST node e express integrada ao banco de dados não relacional do tipo document Mongodb que utiliza o [Object-Document Mapper(ODM)](https://www.dctacademy.com/blog/what-is-object-document-mapper-odm) mongoose para modelagem e manipulação de dados.
 
-# Conteúdos:
+## Sobre
+Salva dados do usuários e permite a manipulação por meio dos principais métodos (get, create, put, delete).
 
-- [Sobre](#Sobre)
-- [Requisitos](#Requisitos)
-- [Instalação](#Instalação)
-- [Tecnologias](#Tecnologias)
-
-## Sobre:
-
-Essa API possibilita persistir os dados de usuários em cloud e manipular esses dados por meio dos principais métodos de manipulação (get, create, put, delete).
-
-## Requisitos:
+## Requisitos
 - Node.js;
 - npm;
-- MongoDB Atlas Account.
+- mongodb.
 
-## Instalação:
+## Instalação
 
 Siga os passos abaixo para instalar e rodar o projeto:
 
-1. Clone o repositório:
+1. Clone o repositório
 
 ```bash
 git clone https://github.com/seu-usuario/nome-do-projeto.git
 
 ```
 
-2. Acesse a pasta do projeto:
+2. Acesse a pasta do projeto
 
 ```bash
 cd nome-do-projeto
 
 ```
 
-3. Instale as dependências:
+3. Instale as dependências
 
 ```bash
 npm install
 
 ```
+4. Execute a aplicação
 
+```bash
+npm run dev
+```
 ## Endpoints
 - POST: ```http://localhost/users```
 - GET:  ```http://localhost/users```
@@ -49,16 +45,6 @@ npm install
 - PATCH: ```http://localhost/users/{id}```
 - PUT: ```http://localhost/users/{id}```
 - DELETE ```http://localhost/user/{id}```
-
-4. Execute a aplicação:
-
-```bash
-npm run dev
-```
-
+  
 ## Tecnologias:
-- Node.js;
-- JavaScript
-- Mongodb Atlas;
-- Mongoose (ODM)
-- Postman.
+Node.js, express.js, JavaScript, Mongodb, Mongoose (ODM), Postman.
